@@ -1,7 +1,10 @@
 # Serveur-DHCP-sur-routeur
 
 ## Description 
-Projet réalisé sur Cisco Packet Tracer qui simule un serveur DHCP sur un routeur
+Projet réalisé sur Cisco Packet Tracer qui simule un serveur DHCP sur un routeur        
+
+## Objectifs
+Attribuer une adresse IP aux utilisateurs automatiquement        
 
 ## Équipements utilisés
 1 Router 2911    
